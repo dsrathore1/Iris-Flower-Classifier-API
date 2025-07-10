@@ -1,0 +1,16 @@
+2025-07-09 21:02:10,720 - INFO - Recieved input: [52.1, 22.5, 12.4, 12.3]
+2025-07-09 21:02:10,729 - INFO - Prediction label: verginica
+2025-07-09 21:02:21,111 - INFO - Recieved input: [52.1, 322.5, 32.4, 2.3]
+2025-07-09 21:02:21,118 - INFO - Prediction label: verginica
+2025-07-09 21:02:27,096 - INFO - Recieved input: [52.1, 22.5, 12.4, 12.3]
+2025-07-09 21:02:27,103 - INFO - Prediction label: verginica
+2025-07-09 21:02:37,511 - INFO - Recieved input: [512.1, 223.5, 152.4, 182.3]
+2025-07-09 21:02:37,520 - INFO - Prediction label: verginica
+2025-07-09 21:02:51,387 - INFO - Recieved input: [2.1, 3.5, 3.4, 18.3]
+2025-07-09 21:02:51,397 - INFO - Prediction label: verginica
+2025-07-09 21:03:18,570 - INFO - Recieved input: [52.1, 322.5, 32.4, 2.3]
+2025-07-09 21:03:18,582 - INFO - Prediction label: verginica
+2025-07-09 21:03:35,997 - INFO - Recieved input: [5.1, 3.5, 1.4, 0.2]
+2025-07-09 21:03:36,003 - INFO - Prediction label: setosa
+2025-07-09 21:03:50,361 - INFO - Recieved input: [5232.1, 3435.5, 1343.4, 34220.2]
+2025-07-09 21:03:50,372 - INFO - Prediction label: verginica
